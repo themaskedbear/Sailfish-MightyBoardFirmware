@@ -143,8 +143,8 @@ const PROGMEM prog_uchar PRINT_ANOTHER_MSG[]       = "Imprimer une copie";
 const PROGMEM prog_uchar CANNOT_PRINT_ANOTHER_MSG[]= "(Copie impossible)";
 
 #if defined(HAS_RGB_LED)
-const PROGMEM prog_uchar LIGHTS_OFF_MSG[]   = "Desactiver eclerage";
-const PROGMEM prog_uchar LIGHTS_ON_MSG[]    = "Activer eclerage";
+const PROGMEM prog_uchar LIGHTS_OFF_MSG[]   = "Desactiver eclairage";
+const PROGMEM prog_uchar LIGHTS_ON_MSG[]    = "Activer eclairage";
 #if defined(RGB_LED_MENU)
 const PROGMEM prog_uchar LED_MSG[]          = "Eclairage";
 const PROGMEM prog_uchar RED_COLOR_MSG[]    = "ROUGE ";
